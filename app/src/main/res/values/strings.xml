@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hello</string>
+
+    <string name="a">input RMB</string>
+    <string name="b">Hello</string>
+
+    <string name="c">DOLLAR</string>
+    <string name="d">EURO</string>
+    <string name="e">WON</string>
+    <string name="btn_opencfg_label">Config</string>
+    <string name="btn_save_label">Save</string>
+    <string name="menu_set_label">setting</string>
+    <string name="label_open_list">OpenList</string>
+
+</resources>
